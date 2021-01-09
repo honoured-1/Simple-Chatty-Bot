@@ -1,0 +1,34 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    //put imports you need here
+
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9057#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 3. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    Eugene
+    33
+    secondary
+    8
+    fusion
+    Correct output:
+    The form for Eugene is completed. We will contact you if we need a chef that cooks fusion dishes.
+
+    Your code output:
+    The form forEugeneis completed.We will contact you if we need a chef that cooksfusiondishes.
+  time: Mon, 28 Dec 2020 14:15:11 UTC
+record: -1
